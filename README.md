@@ -152,17 +152,22 @@ Healthcare-CKD-Prediction/
 │
 ├── Data/
 │   ├── processed_data_ckd.csv
-│   └── README.md
+│   ├── feature_importance.csv
+│   └── model_predictions.csv
 │
 ├── notebooks/
-│   └── data_preprocessing.ipynb
+│   ├── data_preprocessing.ipynb
+│   ├── eda_analysis.ipynb
+│   └── model_building.ipynb
 │
 ├── dashboard/
-│   └── CKD_dashboard.pbix
+│   └── CKD_Prediction_Dashboard.pbix
 │
 └── README.md
 ```
+## 📊 Dashboard Preview
 
+![Dashboard](dashboard/CKD_Dashboard.png)
 ---
 
 ## 🎯 Conclusion
