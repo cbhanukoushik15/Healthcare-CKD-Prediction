@@ -167,7 +167,7 @@ Healthcare-CKD-Prediction/
 ```
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard/CKD_Dashboard.png)
+![Dashboard](dashboard/CKD_Prediction_Dashboard.png.png)
 ---
 
 ## 🎯 Conclusion
