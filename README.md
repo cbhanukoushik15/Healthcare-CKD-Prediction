@@ -174,6 +174,7 @@ Healthcare-CKD-Prediction/
 
 This project demonstrates how machine learning can be applied to healthcare data to support early detection of Chronic Kidney Disease. The combination of data analysis, predictive modeling, and visualization provides valuable clinical insights.
 
+The model demonstrates strong performance and highlights the importance of data-driven decision-making in healthcare.
 ---
 
 ## 👨‍💻 Author
